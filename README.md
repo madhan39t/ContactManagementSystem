@@ -224,6 +224,6 @@ java ContactManagementSystem
 
 ### 🚀 Happy Coding!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Keep+Learning+Keep+Coding!;Made+with+❤+by+Jestin+M+K" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thank+You+for+Visiting!;Keep+Learning+Keep+Coding!;Made+with+❤+by+MADHANKUMAR+B" />
 
 </div>
